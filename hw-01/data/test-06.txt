@@ -1,0 +1,11 @@
+10
+<div class="portal" role="navigation" id='p-coll-print_export'>
+<h3>Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Main+Page">Create a book</a></li>
+<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Main+Page&amp;oldid=560327612&amp;writer=rl">Download as PDF</a></li>
+<li id="t-print"><a href="/w/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+</ul>
+</div>
+</div>

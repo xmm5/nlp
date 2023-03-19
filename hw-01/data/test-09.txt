@@ -1,0 +1,14 @@
+13
+<div class="portal" role="navigation" id='p-tb'>
+<h3>Toolbox</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Human_trafficking_in_Canada" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Human_trafficking_in_Canada" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Human_trafficking_in_Canada&amp;oldid=560794473" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Human_trafficking_in_Canada&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Human_trafficking_in_Canada&amp;id=560794473" title="Information on how to cite this page">Cite this page</a></li>	</ul>
+</div>
+</div>

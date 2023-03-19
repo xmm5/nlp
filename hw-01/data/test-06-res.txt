@@ -1,0 +1,3 @@
+/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Main+Page,Create a book
+/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Main+Page&amp;oldid=560327612&amp;writer=rl,Download as PDF
+/w/index.php?title=Main_Page&amp;printable=yes,Printable version

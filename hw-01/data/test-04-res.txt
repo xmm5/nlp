@@ -1,0 +1,6 @@
+/wiki/Wikipedia:Community_portal,Community portal
+/wiki/Wikipedia:Help_desk,Help desk
+/wiki/Wikipedia:Local_Embassy,Local embassy
+/wiki/Wikipedia:Reference_desk,Reference desk
+/wiki/Wikipedia:News,Site news
+/wiki/Wikipedia:Village_pump,Village pump
